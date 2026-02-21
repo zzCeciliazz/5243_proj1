@@ -1,0 +1,9 @@
+occupation1,occupation2,Percent of workers that had work schedule variability required,Percent of workers that did not have work schedule variability required,Percent of workers that had the ability to pause work,Percent of workers that did not have the ability to pause work,"Percent of workers that had a consistent, generally fast work pace","Percent of workers that had a consistent, generally slow work pace",Percent of workers that had a varying work pace,work_schedule_variability,work_schedule_variability_logit,pause_work,pause_work_logit,work_pace,clr_fast,clr_slow,clr_varying,work_pace_pca
+IT,Computer and mathematical occupations,27.6,72.4,94.4,5.6,61.1,3,35.9,0.276,-0.964391908,0.944,2.824756618,1.447515275,1.181891399,-1.832007861,0.65011684,-0.577180593
+HR,Human resources managers,7.8,92.2,99.5,0.5,70.8,6.4,22.8,0.078,-2.469837481,0.995,5.293104845,1.443835114,1.178886506,-1.224674362,0.045788071,-0.913156847
+Legal,Legal occupations,37.9,62.1,93.4,6.6,47.7,4.7,47.5,0.379,-0.493796487,0.934,2.649806545,0.947777141,0.77385688,-1.543511818,0.769655193,-0.716181363
+Finance,Business and financial operations occupations,27.9,72.1,97.7,2.3,59.6,4.7,35.7,0.279,-0.949428742,0.977,3.748948959,1.24621781,1.017532667,-1.522560202,0.505027793,-0.740119383
+Operations,General and operations managers,34.1,65.9,95.7,4.3,65.6,7.8,26.6,0.341,-0.658842575,0.957,3.10258002,1.237856299,1.010705496,-1.118746353,0.108041038,-0.963264165
+Sales,Sales and related occupations,60.5,39.5,45.8,54.2,33.1,3.3,63.6,0.605,0.426340161,0.458,-0.168398662,0.674642698,0.550843572,-1.754766969,1.203923746,-0.587966489
+Customer Service,Customer service representatives,42,57,41.3,58.7,56,0.6,43.4,0.42,-0.322775116,0.413,-0.35157893,1.955945284,1.597023206,-2.93915246,1.342130961,0.014541735
+Marketing,Marketing managers,23.6,76.4,99.5,0.5,77.9,0,22.1,0.236,-1.174737293,0.995,5.293104845,7.932584692,6.476928298,-11.00086105,5.217079986,4.483327105
